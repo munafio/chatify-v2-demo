@@ -98,7 +98,7 @@ Use two browsers (or normal + incognito) to chat between Alice and Bob.
 ## Notes
 
 - **File uploads:** If attachments fail, set `upload_tmp_dir` in `php.ini` to a writable path such as `storage/framework/temp`.
-- **Links:** [Chatify](https://github.com/munafio/chatify) · [Docs](https://chatify.munafio.com) · [Packagist](https://packagist.org/packages/munafio/chatify)
+- **Links:** [Chatify](https://github.com/munafio/chatify) · [Docs](https://www.chatifyphp.com/docs) · [Packagist](https://packagist.org/packages/munafio/chatify)
 
 ## License
 
