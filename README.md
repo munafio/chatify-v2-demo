@@ -1,6 +1,6 @@
 # Chatify 2 Demo
 
-A minimal Laravel app for trying [Chatify v2](https://github.com/munafio/chatify) (beta). Includes Laravel Breeze auth, two demo users, and the Chatify UI at `/chatify`.
+A minimal Laravel app for trying [Chatify v2](https://github.com/munafio/chatify). Includes Laravel Breeze auth, two demo users, and the Chatify UI at `/chatify`.
 
 ## Requirements
 
